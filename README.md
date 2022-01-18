@@ -3,4 +3,4 @@
 
 education
 
-temple 
+temple University 
